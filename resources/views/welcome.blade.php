@@ -64,7 +64,7 @@
                             </div>
                           </nav>
 
-                          <div class="ellipse">
+                          
                               <div class="ellipse1">
                             <p>elipse</p>
                             </div>
