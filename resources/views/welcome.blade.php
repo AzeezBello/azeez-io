@@ -7,6 +7,7 @@
 
         <title>Azeez Bello-io</title>
         <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/custom.css" rel="stylesheet">
 
         <!-- Custom fonts for this template -->
         <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -62,6 +63,10 @@
                               </div>
                             </div>
                           </nav>
+
+                          <div class="ellipse">
+                            <p>elipse</p>
+                          </div>
                     <header class="masthead text-center text-white d-flex">
                             <div class="container my-auto">
                               <div class="row">
