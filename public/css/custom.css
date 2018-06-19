@@ -13,3 +13,16 @@ top: 355px;
 background: #FFFFFF;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
+.ellipse1{
+    
+position: absolute;
+width: 150px;
+height: 150px;
+left: 930px;
+top: 380px;
+
+background: #BABD27;
+border: 1px solid #95B569;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
