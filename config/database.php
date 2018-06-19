@@ -1,12 +1,10 @@
 <?php
-error_reporting(0);
+$url = parse_url(getenv("CLEARDB_DATABASE_URL"));
 
-$db = parse_url(getenv("DATABASE_URL"));
-$db["path"] = ltrim($db["path"], "/");
-
-$host = $db["host"];
-$user = $db["user"];
-$pass = $db["pass"];
+$host = $url["host"];
+$username = $url["user"];
+$password = $url["pass"];
+$database = substr($url["path"], 1);
 
 return [
 
@@ -51,8 +49,8 @@ return [
             'driver' => 'mysql',
             'host' => env('DB_HOST', '127.0.0.1'),
             'port' => env('DB_PORT', '3306'),
-            'database' => env('DB_DATABASE', 'forge'),
-            'username' => env('DB_USERNAME', 'forge'),
+            'database' => env('DB_DATABASE', 'azeez-io'),
+            'username' => env('DB_USERNAME', ''),
             'password' => env('DB_PASSWORD', ''),
             'unix_socket' => env('DB_SOCKET', ''),
             'charset' => 'utf8mb4',
