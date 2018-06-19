@@ -1,4 +1,12 @@
 <?php
+error_reporting(0);
+
+$db = parse_url(getenv("DATABASE_URL"));
+$db["path"] = ltrim($db["path"], "/");
+
+$host = $db["host"];
+$user = $db["user"];
+$pass = $db["pass"];
 
 return [
 
