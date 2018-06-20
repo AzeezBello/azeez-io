@@ -63,12 +63,6 @@
                               </div>
                             </div>
                           </nav>
-
-                          
-                              <div class="ellipse1">
-                            <p>elipse</p>
-                            </div>
-                         </div>
                     <header class="masthead text-center text-white d-flex">
                             <div class="container my-auto">
                               <div class="row">
