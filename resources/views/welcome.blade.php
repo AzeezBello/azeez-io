@@ -1,4 +1,4 @@
-@extends('layouts.master')
+  @extends('layouts.master')
 @section('title')
 Azeez-io
 @endsection
@@ -73,7 +73,7 @@ Azeez-io
                             <div class="portfolio-box-caption">
                               <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                  Android
+                                  ANDROID UI/UX
                                 </div>
                                 <div class="project-name">
                                     Noodles
@@ -83,8 +83,53 @@ Azeez-io
                           </a>
                         </div>
                         <div class="col-lg-4 col-sm-6">
-                          <a class="portfolio-box" href="img/portfolio/fullsize/2.jpg">
-                            <img class="img-fluid" src="img/portfolio/thumbnails/2.jpg" alt="">
+                          <a class="portfolio-box" href="img/portfolio/fullsize/LSFLOW 2 Screen Shot.PNG">
+                            <img class="img-fluid" src="img/portfolio/thumbnails/LSFLOW Splash Page.PNG" alt="">
+                            <div class="portfolio-box-caption">
+                              <div class="project-category text-faded">
+                              <div class="portfolio-box-caption-content">
+                                  UI/UX
+                                </div>
+                                <div class="project-name">
+                                    LSFLOW
+                                </div>
+                              </div>
+                            </div>
+                          </a>
+                        </div>
+                        <div class="col-lg-4 col-sm-6">
+                          <a class="portfolio-box" href="img/portfolio/fullsize/Bola.png">
+                            <img class="img-fluid" src="img/portfolio/thumbnails/Bola.png" alt="">
+                            <div class="portfolio-box-caption">
+                              <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    FLYER
+                                </div>
+                                <div class="project-name">
+                                    Bola Birthday Scholarship
+                                </div>
+                              </div>
+                            </div>
+                          </a>
+                        </div>
+                        <div class="col-lg-4 col-sm-6">
+                            <a class="portfolio-box" href="img/portfolio/fullsize/Npower.png">
+                              <img class="img-fluid" src="img/portfolio/thumbnails/Npower.png" alt="">
+                              <div class="portfolio-box-caption">
+                                <div class="portfolio-box-caption-content">
+                                  <div class="project-category text-faded">
+                                    FLYER
+                                  </div>
+                                  <div class="project-name">
+                                    Project Name
+                                  </div>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                        <div class="col-lg-4 col-sm-6">
+                          <a class="portfolio-box" href="img/portfolio/fullsize/ZENRECYCLE.png">
+                            <img class="img-fluid" src="img/portfolio/thumbnails/ZENRECYCLE.png" alt="">
                             <div class="portfolio-box-caption">
                               <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -98,60 +143,15 @@ Azeez-io
                           </a>
                         </div>
                         <div class="col-lg-4 col-sm-6">
-                          <a class="portfolio-box" href="img/portfolio/fullsize/3.jpg">
-                            <img class="img-fluid" src="img/portfolio/thumbnails/3.jpg" alt="">
+                          <a class="portfolio-box" href="img/portfolio/fullsize/Seyi Shay.jpg">
+                            <img class="img-fluid" src="img/portfolio/thumbnails/Seyi Shay.jpg" alt="">
                             <div class="portfolio-box-caption">
                               <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                  Category
+                                  FLYER
                                 </div>
                                 <div class="project-name">
-                                  Project Name
-                                </div>
-                              </div>
-                            </div>
-                          </a>
-                        </div>
-                        <div class="col-lg-4 col-sm-6">
-                          <a class="portfolio-box" href="img/portfolio/fullsize/4.jpg">
-                            <img class="img-fluid" src="img/portfolio/thumbnails/4.jpg" alt="">
-                            <div class="portfolio-box-caption">
-                              <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                  Category
-                                </div>
-                                <div class="project-name">
-                                  Project Name
-                                </div>
-                              </div>
-                            </div>
-                          </a>
-                        </div>
-                        <div class="col-lg-4 col-sm-6">
-                          <a class="portfolio-box" href="img/portfolio/fullsize/5.jpg">
-                            <img class="img-fluid" src="img/portfolio/thumbnails/5.jpg" alt="">
-                            <div class="portfolio-box-caption">
-                              <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                  Category
-                                </div>
-                                <div class="project-name">
-                                  Project Name
-                                </div>
-                              </div>
-                            </div>
-                          </a>
-                        </div>
-                        <div class="col-lg-4 col-sm-6">
-                          <a class="portfolio-box" href="img/portfolio/fullsize/6.jpg">
-                            <img class="img-fluid" src="img/portfolio/thumbnails/6.jpg" alt="">
-                            <div class="portfolio-box-caption">
-                              <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                  Category
-                                </div>
-                                <div class="project-name">
-                                  Project Name
+                                    Seyi Shay
                                 </div>
                               </div>
                             </div>
