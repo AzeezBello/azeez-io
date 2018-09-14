@@ -114,7 +114,7 @@ Azeez-io
                         </div>
                         <div class="col-lg-4 col-sm-6">
                             <a class="portfolio-box" href="img/portfolio/fullsize/Npower.png">
-                              <img class="img-fluid" src="img/portfolio/thumbnails/Npower.png" alt="">
+                              <img class="img-fluid" src="img/portfolio/thumbnails/Chicagobooth.jpg" alt="">
                               <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
                                   <div class="project-category text-faded">
@@ -128,8 +128,8 @@ Azeez-io
                             </a>
                           </div>
                         <div class="col-lg-4 col-sm-6">
-                          <a class="portfolio-box" href="img/portfolio/fullsize/ZENRECYCLE.png">
-                            <img class="img-fluid" src="img/portfolio/thumbnails/ZENRECYCLE.png" alt="">
+                          <a class="portfolio-box" href="img/portfolio/fullsize/theafri.jpg">
+                            <img class="img-fluid" src="img/portfolio/thumbnails/theafri.jpg" alt="">
                             <div class="portfolio-box-caption">
                               <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
