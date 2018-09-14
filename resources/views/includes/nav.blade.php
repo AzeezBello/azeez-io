@@ -10,9 +10,9 @@
                     <a class="nav-link js-scroll-trigger" href="#about">About</a>
                   </li>
             
-              <li class="nav-item">
+             <!-- <li class="nav-item">
                 <a class="nav-link js-scroll-trigger" href="#services">Process</a>
-              </li>
+              </li>  -->
               <li class="nav-item">
                   <a class="nav-link js-scroll-trigger" href="#portfolio">portfolio</a>
                 </li>

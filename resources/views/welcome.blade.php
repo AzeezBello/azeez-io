@@ -12,15 +12,15 @@ Azeez-io
                     <div class="container">
                       <div class="row">
                         <div class="col-lg-8 mx-auto text-center">
-                          <h2 class="section-heading text-white">We've got what you need!</h2>
+                          <h2 class="section-heading text-white">Azeez Bello</h2>
                           <hr class="light my-4">
-                          <p class="text-faded mb-4">Everything you need to get your new website up and running in no time! For the right price!</p>
+                          <p class="text-faded mb-4">A Visual designer skilled in prototyping and user testing, A brand marketer who produces wireframes and userflows,and a front-end developer driven by user-centered design ? Everything you need to get your new website up and running in no time! For the right price!</p>
                           <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">Get Started!</a>
                         </div>
                       </div>
                     </div>
                   </section>
-              
+                  <!--
                   <section id="services">
                     <div class="container">
                       <div class="row">
@@ -63,7 +63,7 @@ Azeez-io
                       </div>
                     </div>
                   </section>
-              
+                -->
                   <section class="p-0" id="portfolio">
                     <div class="container-fluid p-0">
                       <div class="row no-gutters popup-gallery">
