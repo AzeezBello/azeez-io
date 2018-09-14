@@ -14,7 +14,7 @@ Azeez-io
                         <div class="col-lg-8 mx-auto text-center">
                           <h2 class="section-heading text-white">Azeez Bello</h2>
                           <hr class="light my-4">
-                          <p class="text-faded mb-4">A Visual designer skilled in prototyping and user testing, A brand marketer who produces wireframes and userflows,and a front-end developer driven by user-centered design ? Everything you need to get your new website up and running in no time! For the right price!</p>
+                          <p class="text-faded mb-4">A Visual designer skilled in prototyping and user testing, A brand marketer who produces wireframes and userflows,and a front-end developer driven by user-centered design </p>
                           <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">Get Started!</a>
                         </div>
                       </div>
